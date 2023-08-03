@@ -1,4 +1,3 @@
-## Hello there
+## How to create Wikis using Markdown
 
-
-## This is edited from the azure IDE
+##
