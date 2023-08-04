@@ -1,5 +1,4 @@
-## How to create Wikis using Markdown
+# How to create Wikis using Markdown
 
-## Syntax Cheat Code
-
+## Markdown Syntax
 ## 
