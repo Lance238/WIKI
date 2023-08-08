@@ -3,3 +3,5 @@
 ## Markdown Syntax
 
 ### Heading Types
+
+###### This line is used for paragraphs
