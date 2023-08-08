@@ -4,4 +4,4 @@
 
 ### Heading Types
 
-###### This line is used for paragraphs
+##### This line is used for paragraphs
