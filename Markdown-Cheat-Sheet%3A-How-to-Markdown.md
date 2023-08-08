@@ -2,6 +2,4 @@
 
 ## Markdown Syntax
 
-### Heading Types
-
-##### This line is used for paragraphs
+### This WIKI will showcase a simple tutorial on the basic syntax in Markdown
