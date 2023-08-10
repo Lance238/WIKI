@@ -2,5 +2,5 @@
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| Header      | Title       |
+| # #Heading1     | # Heading 1       |
 | Paragraph   | Text        |
