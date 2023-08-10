@@ -1,5 +1,4 @@
-### Heading Types
-
+# __Heading Types__
 
 # # Heading 1  
 ## ## Heading 2  
