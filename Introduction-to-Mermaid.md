@@ -1,4 +1,7 @@
-:::mermaid
+
+# Heading
+
+::: mermaid
 graph TD;
     A-->B;
     A-->C;
@@ -8,9 +11,8 @@ graph TD;
     E-->F;
 :::
 
-
 ::: mermaid
-sequenceDiagram 
+sequenceDiagram
     Alice->>John: Hello John, how are you?
     loop Healthcheck
         John->>John: Fight against hypochondria
@@ -20,7 +22,6 @@ sequenceDiagram
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
 :::
-
 
 ::: mermaid
 gantt
