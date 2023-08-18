@@ -11,8 +11,7 @@
 
 ###### ######h6 Heading
 
-'
-# #h1 Heading 8-)
+'# #h1 Heading 8-)
 
 ## ##h2 Heading
 
@@ -22,8 +21,7 @@
 
 ##### #####h5 Heading
 
-###### ######h6 Heading
-'
+###### ######h6 Heading'
 
 ## Emphasis
 
