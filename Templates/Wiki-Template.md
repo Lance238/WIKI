@@ -108,3 +108,4 @@ home page: [https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscod
 installation from command palette (`Ctrl + P`): `ext install DavidAnson.vscode-markdownlint`
 
 aforementioned [markdownlint style checker](#markdownlint) is available as [a plugin for VS Code](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint).
+  
