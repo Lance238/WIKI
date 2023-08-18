@@ -1,4 +1,6 @@
 
+## Heading Types
+
 Here is some code for creating the different headings
 
     # #h1 Heading 8-)
@@ -28,6 +30,14 @@ Here is some code for creating the different headings
 
 ## Emphasis
 
+    **This is bold text**
+
+    **This is bold text**
+
+    *This is italic text*
+
+    ~~Strikethrough~~
+
 **This is bold text**
 
 **This is bold text**
@@ -38,11 +48,31 @@ Here is some code for creating the different headings
 
 ## Blockquotes
 
+    > Blockquotes can also be nested...
+    >> ...by using additional greater-than signs right next to each other...
+    >>> ...or with spaces between arrows.
+
 > Blockquotes can also be nested...
 >> ...by using additional greater-than signs right next to each other...
 >>> ...or with spaces between arrows.
 
 ## Lists
+
+    Unordered
+
+    + Create a list by starting a line with `+`, `-`, or `*`
+    + Sub-lists are made by indenting 2 spaces:
+      + Marker character change forces new list start:
+        + Ac tristique libero volutpat at
+        + Facilisis in pretium nisl aliquet
+        + Nulla volutpat aliquam velit
+    + Very easy!
+
+    Ordered
+
+    1. Lorem ipsum dolor sit amet
+    2. Consectetur adipiscing elit
+    3. Integer molestie lorem at massa  
 
 Unordered
 
@@ -89,6 +119,20 @@ console.log(foo(5));
 
 ## Tables
 
+    | Option | Description |
+    | ------ | ----------- |
+    | data   | path to data files to supply the data that will be passed into templates. |
+    | engine | engine to be used for processing templates. Handlebars is the default. |
+    | ext    | extension to be used for dest files. |
+
+    Right aligned columns
+
+    | Option | Description |
+    | ------:| -----------:|
+    | data   | path to data files to supply the data that will be passed into templates. |
+    | engine | engine to be used for processing templates. Handlebars is the default. |
+    | ext    | extension to be used for dest files. |
+
 | Option | Description |
 | ------ | ----------- |
 | data   | path to data files to supply the data that will be passed into templates. |
@@ -105,6 +149,12 @@ Right aligned columns
 
 ## Links
 
+    [link text](http://dev.nodeca.com)
+
+    [link with title](http://nodeca.github.io/pica/demo/ "title text!")
+
+    Autoconverted link <https://github.com/nodeca/pica> (enable linkify to see)
+
 [link text](http://dev.nodeca.com)
 
 [link with title](http://nodeca.github.io/pica/demo/ "title text!")
@@ -112,6 +162,17 @@ Right aligned columns
 Autoconverted link <https://github.com/nodeca/pica> (enable linkify to see)
 
 ## Images
+
+    ![Minion](https://octodex.github.com/images/minion.png)
+    ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+
+    Like links, Images also have a footnote style syntax
+
+    ![Alt text][id]
+
+    With a reference later in the document defining the URL location:
+
+    [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
 ![Minion](https://octodex.github.com/images/minion.png)
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
@@ -132,7 +193,6 @@ The killer feature of `markdown-it` is very effective support of
 ### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
 
 > Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
->
 > Shortcuts (emoticons): :-) :-( 8-) ;)
 
 see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
