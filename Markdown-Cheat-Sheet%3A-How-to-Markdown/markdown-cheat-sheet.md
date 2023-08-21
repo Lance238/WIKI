@@ -94,12 +94,6 @@ term
 
 ~~The world is flat.~~
 
-### Task List
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
 ### Emoji
 
 That is so funny! :joy:
@@ -112,7 +106,7 @@ I need to highlight these ==very important words==.
 
 ### Subscript
 
-H~2~O
+log 2~a~
 
 ### Superscript
 
