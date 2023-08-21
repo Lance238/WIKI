@@ -43,12 +43,12 @@ sequenceDiagram
         sequenceDiagram
             Alice->>John: Hello John, how are you?
             loop Healthcheck
-                John->>John: Fight against hypochondria
+                John->>John: Loop check
             end
-            Note right of John: Rational thoughts!
+            Note right of John: Note
             John-->>Alice: Great!
-            John->>Bob: How about you?
-            Bob-->>John: Jolly good!
+            John->>Bob: John to Bob
+            Bob-->>John: Bob to John
         :::
 
 ## Gantt Chart
