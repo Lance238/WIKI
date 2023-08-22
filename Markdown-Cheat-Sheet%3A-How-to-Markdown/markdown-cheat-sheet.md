@@ -104,10 +104,10 @@ That is so funny! :joy:
 
 I need to highlight these ==very important words==.
 
-### Subscript
+Area of a circle is $\pi r^2$
 
-log 2~a~
+And, the area of a triangle is:
 
-### Superscript
-
-X^2^
+$$
+A_{triangle}=\frac{1}{2}({b}\cdot{h})
+$$

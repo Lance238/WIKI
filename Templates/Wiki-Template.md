@@ -10,29 +10,22 @@ You may remove `.markdown-wiki-template` directory if you don't need this docume
 
 **Table of content:**
 
-- [Prerequisites](#prerequisites)
 - [Get started](#get-started)
 - [Images](#images)
   - [`.images` directory](#images-directory)
   - [`pre-commit` hook](#pre-commit-hook)
-- [markdownlint](#markdownlint)
 - [VS Code](#vs-code)
   - [VS Code internal settings](#vs-code-internal-settings)
   - ["Paste Image" extenstion](#paste-image-extenstion)
   - ["Markdown All in One" extension](#markdown-all-in-one-extension)
   - ["markdownlint" extension](#markdownlint-extension)
 
-## Prerequisites
-
-- OS: GNU Linux / Mac (though it's not tested for Mac yet - it _**should**_ work there)
-- `git` available on `$PATH`
-
 ## Get started
 
 Download this repository to your local machine:
 
 ```shell
-git clone https://github.com/vsudakov/markdown-wiki-template.git
+git clone https://github.com/LancePalogan/NewRepo/blob/main/Templates/Wiki-Template.md
 ```
 
 ## Images
@@ -48,12 +41,6 @@ Regardless of where the markdown page is placed within the repository, all image
 ```
 
 ![img](/.images/sample-image.png)
-
-### `pre-commit` hook
-
-`pre-commit` hook automatically detects the image files that are not referenced anywhere within the repository anymore and removes them.
-
-To enable this `pre-commit` hook - run the following command within the project root directory:
 
 ```shell
 chmod 755 .images/untrack-unused-images.sh; \
