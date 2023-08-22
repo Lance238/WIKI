@@ -190,10 +190,6 @@ With a reference later in the document defining the URL location:
 + $19^{th}$
 + $H_2O$
 
-### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
-
-++Inserted text++
-
 ### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
 
 ==Marked text==
@@ -239,6 +235,12 @@ Term 2
   ~ Definition 2b
 
 ### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
+
+        This is HTML abbreviation example.
+
+        It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
+
+        *[HTML]: Hyper Text Markup Language
 
 This is HTML abbreviation example.
 
