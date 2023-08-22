@@ -104,7 +104,11 @@ That is so funny! :joy:
 
 I need to highlight these ==very important words==.
 
+### Subscript
+
 Area of a circle is $\pi r^2$
+
+### Superscript
 
 And, the area of a triangle is:
 

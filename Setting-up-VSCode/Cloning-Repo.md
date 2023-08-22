@@ -9,6 +9,8 @@ section under the Repos Tab in their Project. Once the user can view the files o
 
         git clone <paste URL here>
 
+![alt text for screen readers](Screenshot 2023-08-21 155413.png "Text to show on mouseover").
+
 ## Second Option: Cloning to VS Code using Azure DevOps Interface
 
 This option may seem a bit more straightforward for those who are unfamiliaar with using the Command Line. The only drawback is that it only applies to those who plan to use VS Code. 
