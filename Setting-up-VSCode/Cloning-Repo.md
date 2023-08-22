@@ -9,7 +9,7 @@ section under the Repos Tab in their Project. Once the user can view the files o
 
         git clone <paste URL here>
 
-![alt text for screen readers](Screenshot 2023-08-21 155413.png "Text to show on mouseover").
+![pic](Screenshot 2023-08-21 155413.png "Text to show on mouseover").
 
 ## Second Option: Cloning to VS Code using Azure DevOps Interface
 
