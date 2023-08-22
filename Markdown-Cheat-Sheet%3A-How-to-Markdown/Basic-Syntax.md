@@ -187,6 +187,9 @@ With a reference later in the document defining the URL location:
 
 ### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
 
+      + $19^{th}$
+      + $H_2O$
+
 + $19^{th}$
 + $H_2O$
 
