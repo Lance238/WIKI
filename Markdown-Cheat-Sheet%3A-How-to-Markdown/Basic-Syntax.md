@@ -184,6 +184,8 @@ With a reference later in the document defining the URL location:
 
 [id]: https://www.incredibuild.com/wp-content/uploads/2020/09/azure_devops-1.png  "DevOps"
 
+## Subscripts and SuperScripts
+
 ### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
 
       + $19^{th}$
