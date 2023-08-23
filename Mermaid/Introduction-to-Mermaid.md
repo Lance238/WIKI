@@ -87,14 +87,74 @@ B task : a1, 2014-01-01, 30d
 
 ## Class Diagram
 
-::: mermaid
+:::mermaid
 classDiagram
-classA <|-- classB
-classC *-- classD
-classE o-- classF
-classG <-- classH
-classI -- classJ
-classK <.. classL
-classM <|.. classN
-classO .. classP
+    Creature <|-- Superman
+    Creature <|-- Vampire
+    Creature <|-- Diavolo
+    Creature: +int size
+    Creature: +int weight
+    Creature: +isBenign()
+    Creature: +power()
+    class Superman{
+        +String currentName
+        +fly()
+        +heal()
+    }
+    class Vampire{
+        -int age
+        -canBite()
+    }
+    class Diavolo{
+        +bool is_serving
+        +heat()
+    }
 :::
+
+### Here is the code to create the class diagram shown above
+
+        :::mermaid
+        requirementDiagram
+        requirement development_req {
+        id: 1
+        text: requirements spec.
+        risk: medium
+        verifymethod: test
+        }
+        element test_suite {
+        type: manual test
+        }
+        test_suite - verifies -> development_req
+        :::
+
+## Requirements Diagram
+
+:::mermaid
+requirementDiagram
+    requirement development_req {
+    id: 1
+    text: requirements spec.
+    risk: medium
+    verifymethod: test
+    }
+    element test_suite {
+    type: manual test
+    }
+    test_suite - verifies -> development_req
+:::
+
+### Code for Requirement Diagram shown above
+
+        :::mermaid
+        requirementDiagram
+            requirement development_req {
+            id: 1
+            text: requirements spec.
+            risk: medium
+            verifymethod: test
+            }
+            element test_suite {
+            type: manual test
+            }
+            test_suite - verifies -> development_req
+        :::
