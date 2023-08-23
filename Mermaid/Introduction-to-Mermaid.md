@@ -1,6 +1,8 @@
 
 # Main charts for Mermaid
 
+## Graph
+
 ::: mermaid
 graph TD;
     A-->B;
