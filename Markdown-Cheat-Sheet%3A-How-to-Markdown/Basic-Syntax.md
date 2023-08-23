@@ -172,19 +172,17 @@ Autoconverted link <https://github.com/nodeca/pica> (enable linkify to see)
 
     With a reference later in the document defining the URL location:
 
-    [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+    [id]: https://www.incredibuild.com/wp-content/uploads/2020/09/azure_devops-1.png  "DevOps"
 
-![Golf](https://w7.pngwing.com/pngs/195/640/png-transparent-white-golf-ball-golf-clubs-golf-course-golf-balls-miniature-golf-golf-photography-grass-golf-equipment-thumbnail.png)
-
-![Hotspurs](https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/1200px-Tottenham_Hotspur.svg.png)
+![Azure](https://www.datalinknetworks.net/hs-fs/hubfs/Microsoft_Azure-Logo.wine.png?width=3000&height=2000&name=Microsoft_Azure-Logo.wine.png)
 
 Like links, Images also have a footnote style syntax
 
-![Alt text][id]
+![DevOps][id]
 
 With a reference later in the document defining the URL location:
 
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+[id]: https://www.incredibuild.com/wp-content/uploads/2020/09/azure_devops-1.png  "DevOps"
 
 ### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
 
