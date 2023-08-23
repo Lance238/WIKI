@@ -174,7 +174,7 @@ Autoconverted link <https://github.com/nodeca/pica> (enable linkify to see)
 
     [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
-![Golf](https://www.pngwing.com/en/free-png-zafkb)
+![Golf](https://w7.pngwing.com/pngs/195/640/png-transparent-white-golf-ball-golf-clubs-golf-course-golf-balls-miniature-golf-golf-photography-grass-golf-equipment-thumbnail.png)
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
 Like links, Images also have a footnote style syntax
