@@ -2,4 +2,15 @@
 
 Mermaid is an engine that enables you to draw beautiful, highly detailed SVG diagrams and flowcharts using Markdown
 
-Note that Azure does not support all graphs from mermaid
+Note that Azure only supports a selected number of graphs from mermaid. 
+
+Azure supports the following Mermaid Types:
+
++ Sequence Diagrams
++ Gantt Charts
++ Flowcharts
++ Class Diagrams
++ Stte Diagrams
++ User Journey
++ Pie Chart
++ Requirement Diagram
