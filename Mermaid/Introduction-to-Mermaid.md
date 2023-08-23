@@ -25,6 +25,8 @@ graph TD;
             E-->F;
         :::
 
+---
+
 ## Sequence Diagram
 
 ::: mermaid
@@ -52,6 +54,8 @@ sequenceDiagram
             John->>Bob: John to Bob
             Bob-->>John: Bob to John
         :::
+
+---
 
 ## Gantt Chart
 
@@ -84,6 +88,8 @@ B task : a1, 2014-01-01, 30d
         section Section 3
         B task : a1, 2014-01-01, 30d
         :::
+
+---
 
 ## Class Diagram
 
@@ -126,6 +132,8 @@ classDiagram
         }
         test_suite - verifies -> development_req
         :::
+
+---
 
 ## Requirements Diagram
 
