@@ -14,3 +14,6 @@ Azure supports the following Mermaid Types:
 + User Journey
 + Pie Chart
 + Requirement Diagram
+
+Following sub-page will discuss Sequence Diagrams, Gantt Charts,
+Class Diagrams, and Requirement Diagrams.
